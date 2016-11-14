@@ -1,0 +1,5 @@
+﻿1|Rossi, Andrea| 0
+2|Bianchi, Filippo| 1000
+3|Verdi, Stefania| 200
+4|Bianchi, Sonia| 0
+5|Gialli, Franco| 2000

@@ -1,0 +1,27 @@
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati.Test\obj\Debug\DemoStruttureDati.Test.csprojResolveAssemblyReference.cache
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.Test.dll
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.Test.pdb
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.exe
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.pdb
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati.Test\obj\Debug\DemoStruttureDati.Test.dll
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati.Test\obj\Debug\DemoStruttureDati.Test.pdb
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.Test.dll
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.Test.pdb
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.exe
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.pdb
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati.Test\obj\Debug\DemoStruttureDati.Test.csprojResolveAssemblyReference.cache
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati.Test\obj\Debug\DemoStruttureDati.Test.dll
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati.Test\obj\Debug\DemoStruttureDati.Test.pdb
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.Test.dll
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.Test.pdb
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.exe
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\DemoStruttureDati.pdb
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati.Test\obj\Debug\DemoStruttureDati.Test.csprojResolveAssemblyReference.cache
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati.Test\obj\Debug\DemoStruttureDati.Test.dll
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati.Test\obj\Debug\DemoStruttureDati.Test.pdb

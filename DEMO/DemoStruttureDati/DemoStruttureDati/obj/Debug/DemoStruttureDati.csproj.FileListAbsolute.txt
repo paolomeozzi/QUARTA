@@ -1,0 +1,18 @@
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\obj\Debug\DemoStruttureDati.csprojResolveAssemblyReference.cache
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\bin\Debug\DemoStruttureDati.exe.config
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\bin\Debug\DemoStruttureDati.exe
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\bin\Debug\DemoStruttureDati.pdb
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\obj\Debug\DemoStruttureDati.exe
+F:\ISIS\4 INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\obj\Debug\DemoStruttureDati.pdb
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\bin\Debug\DemoStruttureDati.exe.config
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\bin\Debug\DemoStruttureDati.exe
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\bin\Debug\DemoStruttureDati.pdb
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\obj\Debug\DemoStruttureDati.csprojResolveAssemblyReference.cache
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\obj\Debug\DemoStruttureDati.exe
+E:\_ISIS\4INF\INF\_DEMO\DemoStruttureDati\DemoStruttureDati\obj\Debug\DemoStruttureDati.pdb
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati\bin\Debug\DemoStruttureDati.exe.config
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati\bin\Debug\DemoStruttureDati.exe
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati\bin\Debug\DemoStruttureDati.pdb
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati\obj\Debug\DemoStruttureDati.csprojResolveAssemblyReference.cache
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati\obj\Debug\DemoStruttureDati.exe
+G:\Documenti - Paolo\GitHub\QUARTA\DEMO\DemoStruttureDati\DemoStruttureDati\obj\Debug\DemoStruttureDati.pdb

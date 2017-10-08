@@ -1,0 +1,6 @@
+G:\Documenti - Paolo\__TUTORIALS\Basi di programmazione\_Esercizi e didattica\_OOP\DemoOOP_Pila\DemoOOP_Pila\bin\Debug\DemoOOP_Pila.exe.config
+G:\Documenti - Paolo\__TUTORIALS\Basi di programmazione\_Esercizi e didattica\_OOP\DemoOOP_Pila\DemoOOP_Pila\bin\Debug\DemoOOP_Pila.exe
+G:\Documenti - Paolo\__TUTORIALS\Basi di programmazione\_Esercizi e didattica\_OOP\DemoOOP_Pila\DemoOOP_Pila\bin\Debug\DemoOOP_Pila.pdb
+G:\Documenti - Paolo\__TUTORIALS\Basi di programmazione\_Esercizi e didattica\_OOP\DemoOOP_Pila\DemoOOP_Pila\obj\Debug\DemoOOP_Pila.csprojResolveAssemblyReference.cache
+G:\Documenti - Paolo\__TUTORIALS\Basi di programmazione\_Esercizi e didattica\_OOP\DemoOOP_Pila\DemoOOP_Pila\obj\Debug\DemoOOP_Pila.exe
+G:\Documenti - Paolo\__TUTORIALS\Basi di programmazione\_Esercizi e didattica\_OOP\DemoOOP_Pila\DemoOOP_Pila\obj\Debug\DemoOOP_Pila.pdb

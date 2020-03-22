@@ -1,0 +1,36 @@
+C:\Users\paolo\source\repos\ValidationFramework\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.exe.config
+C:\Users\paolo\source\repos\ValidationFramework\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.exe
+C:\Users\paolo\source\repos\ValidationFramework\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.pdb
+C:\Users\paolo\source\repos\ValidationFramework\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.csprojAssemblyReference.cache
+C:\Users\paolo\source\repos\ValidationFramework\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.Form1.resources
+C:\Users\paolo\source\repos\ValidationFramework\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.Properties.Resources.resources
+C:\Users\paolo\source\repos\ValidationFramework\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.csproj.GenerateResource.cache
+C:\Users\paolo\source\repos\ValidationFramework\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.exe
+C:\Users\paolo\source\repos\ValidationFramework\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.pdb
+C:\Documents\_ISIS\4 INF\Live sessione 2 (sperimentale)\ValidationFrameworkWorking\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.exe.config
+C:\Documents\_ISIS\4 INF\Live sessione 2 (sperimentale)\ValidationFrameworkWorking\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.exe
+C:\Documents\_ISIS\4 INF\Live sessione 2 (sperimentale)\ValidationFrameworkWorking\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.pdb
+C:\Documents\_ISIS\4 INF\Live sessione 2 (sperimentale)\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.csprojAssemblyReference.cache
+C:\Documents\_ISIS\4 INF\Live sessione 2 (sperimentale)\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.Form1.resources
+C:\Documents\_ISIS\4 INF\Live sessione 2 (sperimentale)\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.Properties.Resources.resources
+C:\Documents\_ISIS\4 INF\Live sessione 2 (sperimentale)\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.csproj.GenerateResource.cache
+C:\Documents\_ISIS\4 INF\Live sessione 2 (sperimentale)\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.exe
+C:\Documents\_ISIS\4 INF\Live sessione 2 (sperimentale)\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.pdb
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkBase\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.exe.config
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkBase\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.exe
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkBase\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.pdb
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkBase\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.csprojAssemblyReference.cache
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkBase\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.Form1.resources
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkBase\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.Properties.Resources.resources
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkBase\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.csproj.GenerateResource.cache
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkBase\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.exe
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkBase\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.pdb
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkWorking\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.exe.config
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkWorking\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.exe
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkWorking\ValidationFramework.GUI\bin\Debug\ValidationFramework.GUI.pdb
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.csprojAssemblyReference.cache
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.Form1.resources
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.Properties.Resources.resources
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.csproj.GenerateResource.cache
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.exe
+C:\Documents\_ISIS\4 INF\Live sessione 2\ValidationFrameworkWorking\ValidationFramework.GUI\obj\Debug\ValidationFramework.GUI.pdb
